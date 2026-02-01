@@ -28,12 +28,18 @@ Cybersecurity student at UMGC, graduating Jan 2027. Looking for entry-level secu
 **クラウド・インフラ**
 - Xray (VLESS/WS), Cloudflare Tunnel, Hysteria
 - Hyper-V, Proxmox, Docker
-- AWS, Azure, Cloudflare
+- AWS, Azure, Cloudflare(final used)
 
 **プログラミング**
 - Python（学習中）
 - Bash scripting
 - Git/GitHub
+- C++
+- Pine Script
+- Java
+- Java script
+- Json
+- .....
 
 ### プロジェクト
 
@@ -41,7 +47,7 @@ Cybersecurity student at UMGC, graduating Jan 2027. Looking for entry-level secu
 
 Xray + Cloudflare Tunnelで個人用VPNを構築。モバイルで実用中。
 
-技術: Xray (VLESS/WS), Cloudflare Tunnel, TLS, iptables, UFW, Fail2Ban
+技術: Xray (VLESS/WS), Cloudflare Tunnel, TLS, iptables, UFW, Fail2Ban, Hysteria2 （no in used yet, tried, but Cloudflare free only support tcp, Hysteria 2 was not available. Future might be used for redundancy）
 
 ---
 
@@ -57,23 +63,25 @@ Xray + Cloudflare Tunnelで個人用VPNを構築。モバイルで実用中。
 
 LINE公式アカウント運用とコンテンツプラットフォーム管理。実際の商業プロジェクト。
 
-担当: LINE bot設計、クイズシステム開発、UI/UX設計、技術記事執筆（123+ビュー）
+担当: LINE bot設計、クイズシステム開発、UI/UX設計、NOTEエンタメ技術記事執筆
 
-https://lin.ee/CglHNoD | https://note.com/nuarl_official
+ https://note.com/nuarl_official　
 
 ---
 
 **セキュリティラボ実践**
-- OpenSSL RSA暗号化実験
+- OpenSSL RSA暗号化実験,色々なred team blue teamの模擬実験,
 - Wiresharkパケット解析
+- burp, hydria, metasploit, snort...etc
 - Nmapネットワークスキャン
-- TryHackMe Networking Basics完了
+- TryHackMe
 
 ### 資格取得予定
 
-- CompTIA Network+ (N10-009): 2025年12月28日受験予定（現在Module 33/78）
-- CompTIA Security+ (SY0-701): 2026年2月予定
-- CompTIA Linux+ / CySA+: 2026年5月予定
+- CompTIA Network+ (N10-009):
+- CompTIA Security+ (SY0-701)
+- CompTIA CySA+
+- CCNA
 
 ### 就活スケジュール
 
@@ -85,9 +93,9 @@ https://lin.ee/CglHNoD | https://note.com/nuarl_official
 
 ### その他
 
-趣味: 写真（Canon EOS 7D）、デジタルアート、オーディオ機器
+趣味: 写真（Canon EOS 7D古い）、デジタルアート、オーディオ機器、アクリアート、パソコン関係、執筆（日本語小説　https://note.com/sennzu）
 
-ボランティア: 子ども向け中国語教室、教会コミュニティサービス
+ボランティア: 子ども向け中国語教室、教会コミュニティサービス (高校、大学)
 
 ---
 
@@ -110,22 +118,28 @@ Finishing Bachelor's in Cybersecurity at University of Maryland Global Campus. B
 - OpenSSL, RSA, TLS/SSL, PKI
 
 **Cloud & Infrastructure**
-- VPN/Proxy: Xray (VLESS/WS), Cloudflare Tunnel, Hysteria
-- Virtualization: Hyper-V, Proxmox, Docker
+- VPN/Proxy: Xray (VLESS/WS), Cloudflare Tunnel, Hysteria２
+- Virtualization: Hyper-V, Proxmox, Docker, VirtualBox
 - Cloud: AWS, Azure, Cloudflare
 
 **Programming**
 - Python (learning, building automation tools)
-- Bash scripting
 - Git/GitHub
+- C++
+- Pine Script
+- Java
+- JavaScript
+- Json
+- Bash scripting
+...
 
 ### Projects
 
 **Self-Hosted VPN System (Jul 2025)**
 
-Built personal VPN using Xray + Cloudflare Tunnel. Currently running on mobile devices.
+Built a personal VPN using Xray + Cloudflare Tunnel. Currently running on mobile devices. For my mother visiting China.
 
-Tech: Xray (VLESS/WS), Cloudflare Tunnel, TLS, iptables, UFW, Fail2Ban
+Tech: Xray (VLESS/WS), Cloudflare Tunnel, iptables, UFW, Fail2Ban
 
 ---
 
@@ -133,7 +147,7 @@ Tech: Xray (VLESS/WS), Cloudflare Tunnel, TLS, iptables, UFW, Fail2Ban
 
 Repurposing 2 old Windows PCs into distributed cloud infrastructure.
 
-Tech: Hyper-V/Proxmox, Docker, Cloudflare Tunnel
+Tech: Hyper-V/Proxmox, Docker, Cloudflare Tunnel, NoMachine, VNC, ...ongoing
 
 ---
 
@@ -141,7 +155,7 @@ Tech: Hyper-V/Proxmox, Docker, Cloudflare Tunnel
 
 Technical operations for audio brand's LINE official account and content platform. Real commercial project.
 
-Role: LINE bot design, quiz system dev, UI/UX design, technical writing (123+ views)
+Role: LINE bot design, quiz system dev, UI/UX design, technical writing no vlog 
 
 https://lin.ee/CglHNoD | https://note.com/nuarl_official
 
@@ -155,9 +169,10 @@ https://lin.ee/CglHNoD | https://note.com/nuarl_official
 
 ### Certifications
 
-- CompTIA Network+ (N10-009): Exam Dec 28, 2025 (Currently Module 33/78)
-- CompTIA Security+ (SY0-701): Planned Feb 2026
-- CompTIA Linux+ / CySA+: Planned May 2026
+- CompTIA Network+ (N10-009) / CCNA (either one)
+- CompTIA Security+ (SY0-701)
+- CySA+: Planned DEC 2026
+
 
 ### Career Timeline
 
@@ -170,9 +185,9 @@ Japan fresh grad schedule:
 
 ### Other
 
-Hobbies: Photography (Canon EOS 7D), digital art, audio engineering
+Hobbies: Photography (Canon EOS 7D affordable old camera lol), digital art, audio engineering, acrylic art(cannot afford oil painting, hope possible in the future), techs all around, Novel writing in Japanese https://note.com/sennzu (plz take a look if interested)
 
-Volunteer: Chinese language instructor for kids, church community service
+Volunteer: Chinese language instructor for kids, church community service (白い家 okinawa)
 
 ---
 
