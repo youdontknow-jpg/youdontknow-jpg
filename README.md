@@ -1,6 +1,6 @@
 # Kaisei Suzuki / 鈴木海世
 
-Cybersecurity student at UMGC, graduating Jan 2027. Looking for entry-level security roles in Japan.
+Cybersecurity student at UMGC, 
 
 [日本語 / Japanese](#日本語版) | [English](#english-version)
 
