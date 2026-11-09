@@ -35,6 +35,7 @@ Xray + Cloudflare Tunnelで作った自宅VPN。2025年8月から自分と家族
 
 - ネットワーク監視（NOC）のアルバイト（現在）
 - オーディオブランドNUARLでLINE公式アカウントとnote記事の運用（2025〜2026）
+- フリーランサー通訳 (日中、2024-現在)
 - アルバータ大学（社会学）からUMGCへ転向
 
 ## 連絡先
@@ -49,6 +50,6 @@ Cybersecurity student at UMGC, graduating 2027. Aiming for a threat intelligence
 
 **Now:** CCNA (Nov 2026), a home honeypot (T-Pot, live Dec 2026) focused on traffic from AI-driven automated attacks, and a pentest course with an isolated Kali / Metasploitable lab.
 
-**Project:** [Personal-Secure-VPN-Gateway](https://github.com/youdontknow-jpg/Personal-Secure-VPN-Gateway): a self-hosted VPN in daily use since Aug 2025, no open ports, admin SSH behind Cloudflare Access. Two real outages and their fixes are written up in the repo.
+**Project:** [Personal-Secure-VPN-Gateway](https://github.com/youdontknow-jpg/Personal-Secure-VPN-Gateway): a self-hosted VPN in daily use since Aug 2025, no open ports, admin SSH behind Cloudflare Access. Two real outages and their fixes are written up in the repo （organized using ai, would be rewritten by hand）
 
 **Contact:** suzukikaiseiv@gmail.com
